@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 5th February 2018 12:27 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.30
+WORDPRESS:	4.9.2
+PHP INFO:	7.0.10 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 4MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+FILTERED: [] 
+RESPONSE: Ran from /usr/bin/mysqldump 
+TABLES: total:35 | filtered:0 | create:35 
+SQL CREATED: 20180205_selfixtechnology_9c85d235ad8f7d489825180205122651_database.sql 
+SQL FILE SIZE: 841.97KB (862182) 
+SQL FILE TIME: 2018-02-05 12:27:27 
+SQL RUNTIME: 0.23 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology 
+ARCHIVE FILE: 20180205_selfixtechnology_9c85d235ad8f7d489825180205122651_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	99.85MB 
+STATS:	Dirs 1,018 | Files 6,589 
+SQL ADDED: 20180205_selfixtechnology_9c85d235ad8f7d489825180205122651_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7607
+    [filename] => /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-snapshots/tmp/20180205_selfixtechnology_9c85d235ad8f7d489825180205122651_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 40.6MB 
+ARCHIVE RUNTIME: 34.20 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-snapshots/tmp/20180205_selfixtechnology_9c85d235ad8f7d489825180205122651_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 841.97KB 
+Installer File: 443.44KB 
+Archive File: 40.6MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 35.97 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20180205_selfixtechnology 5th February 2018 12:28 pm
+ 

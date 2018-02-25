@@ -1,0 +1,44 @@
+# Translation of Plugins - BuddyPress to WordPress Full Sync - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - BuddyPress to WordPress Full Sync - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-10 13:50:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - BuddyPress to WordPress Full Sync - Stable (latest release)\n"
+
+#: bp2wp-full-sync.php:229
+msgid "Please select the WordPress user meta you want to sync with this BuddyPress field."
+msgstr "Please select the WordPress user meta you want to sync with this BuddyPress field."
+
+#. Author URI of the plugin/theme
+msgid "https://www.envire.it/"
+msgstr "https://www.envire.it/"
+
+#. Author of the plugin/theme
+msgid "Envire Web Solutions"
+msgstr "Envire Web Solutions"
+
+#. Description of the plugin/theme
+msgid "BuddyPress to WordPress Full Sync lets BuddyPress users to synchronize various users fields with WordPress user fields and vice versa."
+msgstr "BuddyPress to WordPress Full Sync lets BuddyPress users synchronise various users fields with WordPress user fields and vice versa."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/bp2wp-full-sync/"
+msgstr "http://wordpress.org/plugins/bp2wp-full-sync/"
+
+#. Plugin Name of the plugin/theme
+msgid "BuddyPress to WordPress Full Sync"
+msgstr "BuddyPress to WordPress Full Sync"
+
+#: bp2wp-full-sync.php:234
+msgid "None"
+msgstr "None"
+
+#: bp2wp-full-sync.php:226 bp2wp-full-sync.php:232
+msgid "Sync to WordPress user field"
+msgstr "Sync to WordPress user field"
