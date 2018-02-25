@@ -1,0 +1,220 @@
+2018-02-04T23:38:49+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefromjpeg() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:195
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-04T23:39:07+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefromjpeg() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:195
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-04T23:40:36+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefrompng() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:203
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/ST
+
+2018-02-05T00:52:36+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefrompng() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:203
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/ST
+
+2018-02-05T00:53:55+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefromjpeg() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:195
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-05T00:54:14+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefromjpeg() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:195
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-05T00:58:17+00:00 CRITICAL Uncaught Error: Call to undefined function imagecreatefromjpeg() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/ultimate-member/core/um-files.php:195
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-05T16:43:02+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-avatars.php:924
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-05T16:43:22+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-avatars.php:924
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-05T16:44:56+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-avatars.php:924
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-05T16:47:47+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php:1149
+Stack trace:
+#0 /studenthome.hallam.shu.ac
+
+2018-02-05T16:48:05+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php:1149
+Stack trace:
+#0 /studenthome.hallam.shu.ac
+
+2018-02-05T16:48:27+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php:1149
+Stack trace:
+#0 /studenthome.hallam.shu.ac
+
+2018-02-05T16:48:46+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php:1149
+Stack trace:
+#0 /studenthome.hallam.shu.ac
+
+2018-02-05T16:49:50+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php:1149
+Stack trace:
+#0 /studenthome.hallam.shu.ac
+
+2018-02-05T16:50:08+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-attachments.php:1149
+Stack trace:
+#0 /studenthome.hallam.shu.ac
+
+2018-02-05T16:50:19+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-content/plugins/buddypress/bp-core/bp-core-avatars.php:924
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk/S
+
+2018-02-06T18:48:18+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-07T06:54:10+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-07T18:10:23+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-08T06:42:52+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-08T19:07:11+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-09T09:11:24+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-09T18:55:09+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-10T09:32:02+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-10T17:00:29+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-11T05:27:08+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-12T11:15:50+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-12T18:01:25+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-13T05:42:06+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-13T18:37:09+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-14T05:13:32+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-14T18:29:10+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-15T05:28:29+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-15T19:06:56+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-16T09:02:09+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-16T17:08:36+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-17T06:29:38+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-17T17:10:51+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-18T06:40:55+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-18T17:32:51+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-19T07:04:51+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-19T18:28:32+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-20T05:09:39+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-20T19:27:44+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-21T06:11:25+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-21T17:44:35+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-22T07:10:37+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-22T16:59:56+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-23T06:10:51+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-23T17:50:26+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-24T06:39:45+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-24T17:04:52+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-25T05:15:57+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
+2018-02-25T18:02:39+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /studenthome.hallam.shu.ac.uk/STUDENTHOME9/4/b6031184/public_html/selfix_technology/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /studenthome.hallam.shu.ac.uk
+
